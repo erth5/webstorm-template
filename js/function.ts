@@ -10,4 +10,4 @@ var $f = function (object) {
     return document.querySelector(object);
 };
 
-console.log("function.min.js")
+console.log("function.min.js success")
