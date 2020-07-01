@@ -1,4 +1,9 @@
 # webstorm-template
-a webstorm starter template
 
-this template contains a basic folder structure, configured sass and configured ts
+this template is for webstorm web projects
+it contains:
+- a basic folder structure
+- initialized npm
+- configured sass compiler and css minimizer (run automatic)
+- configured ts compiler and js minimizer (run automatic)
+- 
