@@ -17,5 +17,14 @@ open the command line in the project folder and paste:
 - npm install -g sass
 - npm install -g yuicompressor
 
-Then, you can start
+open the settings -> Tools -> File Watchers:
+double-click on "yuicompressor" and set "Trigger the watcher on external changes" on
 
+files will be refresh on first contact
+
+So, you can start
+
+
+### Problems, I can't solve:
+* using local sass (It's installed, but can't use)
+* run ts compiler and js minimizer together
