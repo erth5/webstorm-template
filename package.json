@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "npm": "^6.14.5",
+    "sass": "^1.26.9",
     "yuicompressor": "^2.4.8"
   },
   "devDependencies": {},
