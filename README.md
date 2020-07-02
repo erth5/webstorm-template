@@ -8,8 +8,11 @@ it contains:
 - configured ts compiler (run automatic)
 
 ### how to get start
-open the command line in the project folder and paste:
+clone this repo to a WebStorm project
 
+click the Run "npm install" button
+
+open the command line in the project folder and paste:
 - npm update
 - npm install -g sass
 - npm install -g yuicompressor
