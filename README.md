@@ -13,9 +13,10 @@ clone this repo to a WebStorm project
 click the Run "npm install" button
 
 open the command line in the project folder and paste:
-- npm update
-- npm install -g sass
-- npm install -g yuicompressor
+
+    npm update
+    npm install -g sass
+    npm install -g yuicompressor
 
 open the settings -> Tools -> File Watchers:
 double-click on "yuicompressor" and set "Trigger the watcher on external changes" on
@@ -28,3 +29,5 @@ So, you can start
 ### Problems, I can't solve:
 * using local sass (It's installed, but can't use)
 * run ts compiler and js minimizer together
+
+
