@@ -14,16 +14,19 @@ click the Run "npm install" button
 
 open the command line in the project folder and paste:
 
-    npm update
+
     npm install -g sass
     npm install -g yuicompressor
+    npm update
 
-open the settings -> Tools -> File Watchers:
+- open the settings -> Tools -> File Watchers:
 double-click on "yuicompressor" and set "Trigger the watcher on external changes" on
+
+- open the settings -> language and frameworks -> Typescript and set "Recompile on changes" on
 
 files will be refresh on first contact
 
-So, you can start
+- click on index.html to open your webpage
 
 
 ### Problems, I can't solve:
