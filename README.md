@@ -1,6 +1,6 @@
 # WebStorm-template
 
-this template is for WebStorm web projects
+This template is for WebStorm web projects
 it contains:
 - a basic folder structure
 - initialized npm
@@ -24,7 +24,7 @@ double-click on "yuicompressor" and set "Trigger the watcher on external changes
 
 - open the settings -> language and frameworks -> Typescript and set "Recompile on changes" on
 
-files will be refresh on first contact
+files can be refreshed on first contact
 
 - click on index.html to open your webpage
 
