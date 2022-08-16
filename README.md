@@ -1,3 +1,5 @@
+Archived, because modern technologie is vite
+
 # WebStorm-template
 
 This template is for WebStorm web projects
